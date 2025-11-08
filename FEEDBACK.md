@@ -10,6 +10,7 @@
 - Remember to create the intermediate data!
 - A few more comments on what you gather from the data during exploration, e.g. where is most of the data located, where do you have nulls
 - To add: null handling for the rest of the variables, checking for duplicates
+- Rename Jupyter notebook - it should be `data-cleaning`, not `shark-attack`, as you want separate notebooks for separate steps of the analysis process.
 
 ## For next time:
 - Try to go for a more suggestive title for the GitHub repository which is connected to your business idea, e.g. Risk Analysis for Travel Health Insurance   
