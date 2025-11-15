@@ -47,7 +47,7 @@ Each chart links a **hypothesis** to an **interpretation** that could be relevan
 
 ---
 
-### 1. Activity Risk – Which Ocean Activities Are Most Exposed?
+### 1. Activity Risk - Which Ocean Activities Are Most Exposed?
 
 **Hypothesis:**  
 High-risk ocean activities such as surfing, diving, and swimming significantly increase the probability of shark incidents.
@@ -62,7 +62,7 @@ These activities should be classified as **high-risk categories** and priced acc
 
 ---
 
-### 2. Seasonal Risk – When Is the Risk Higher?
+### 2. Seasonal Risk - When Is the Risk Higher?
 
 **Hypothesis:**  
 Shark incidents increase significantly during summer; therefore, seasonal pricing should be applied to travel insurance policies.
@@ -77,7 +77,7 @@ A **Seasonal Pricing Model** could increase premiums for summer periods to refle
 
 ---
 
-### 3. Geographic Risk – Where Are Incidents More Frequent?
+### 3. Geographic Risk - Where Are Incidents More Frequent?
 
 **Hypothesis:**  
 Shark incident frequency varies significantly by country, so insurance pricing should be adjusted by region.
@@ -92,7 +92,7 @@ Policies covering trips to these **high-risk destinations** may require **region
 
 ---
 
-### 4. Age Risk – Who Is Most at Risk?
+### 4. Age Risk - Who Is Most at Risk?
 
 **Hypothesis:**  
 Young adults (ages 18–45) have the highest exposure to ocean activity risk and should receive age-adjusted premiums.
@@ -106,99 +106,6 @@ The 18–45 age group represents the majority of incidents, reflecting higher pa
 Introducing **age-based risk pricing** can improve premium accuracy and reduce cross-subsidization between age groups.
 
 ---
-
-## Business Impact (Hypothetical)
-
-The insights from this project can support **risk-based decision making** in the insurance industry.  
-Although no real financial calculations were performed (due to lack of pricing and claims data), the analysis suggests several potential areas of business impact:
-
-- **Activity-based pricing**  
-  High-risk activities (e.g. surfing, diving, swimming) could be priced differently from low-risk ocean uses, improving alignment between exposure and premium.
-
-- **Seasonal pricing strategies**  
-  Higher risk during summer could justify seasonal adjustments to travel insurance products, helping to protect the company against peak claim periods.
-
-- **Geographic pricing and product design**  
-  Countries with a historically higher concentration of incidents (e.g. USA, Australia, South Africa, Brazil, Bahamas) could be treated as high-risk destinations, leading to:
-  - Regional premium adjustments  
-  - Destination-specific riders or add-ons  
-  - Specialized products (e.g. “surf insurance” for certain regions)
-
-- **Age-based risk segmentation**  
-  Since the 18–45 age group appears as the most exposed, age-based pricing rules could increase accuracy and reduce cross-subsidization across demographics.
-
----
-
-### Important Disclaimer: Hypothetical Nature of Business Impact
-
-The **Business Impact described here is hypothetical** and intended for educational purposes only.
-
-The dataset used in this project does **not** contain:
-- Policy premium values  
-- Claims history or claim costs  
-- Loss ratios or profitability metrics  
-- Portfolio composition (number of policies per product, region, or customer segment)  
-- Customer-level financial information  
-
-Because of this, it is **not possible** to compute real financial impact (e.g. profit increase, claim cost reduction) based solely on the shark incident dataset.
-
-What we provide instead is:
-- **Qualitative impact**: how the insights *could* be used by an insurance company  
-- **Guidance**: where pricing and underwriting teams might focus their efforts
-
----
-
-### What Would Be Needed for a Real Financial Impact Analysis
-
-To move from **hypothetical** to **quantitative** Business Impact, the company would need to combine this risk analysis with internal financial data, including for example:
-
-- Historical **premium tables** per product, activity, region, and season  
-- **Frequency and severity of claims** for relevant ocean-activity products  
-- **Average claim cost** by severity (fatal, non-fatal, minor injury)  
-- **Customer portfolio distribution** (by age, activity, destination, season)  
-- **Underwriting rules and actuarial models** currently in use  
-- **Loss ratios and profitability indicators** for ocean-related coverage  
-
-Integrating these data sources would allow:
-- Simulation of pricing scenarios  
-- Estimation of future losses under different risk assumptions  
-- Calculation of expected changes in revenue and profit
-
----
-
-### Multidisciplinary Collaboration (Real-World Context)
-
-In a real insurance company, a robust Business Impact study would be carried out by a **multidisciplinary team**, typically involving:
-
-- **Risk Management Analysts**  
-  Identify and validate the key risk drivers (activity, season, geography, age).
-
-- **Data Analysts / Data Scientists**  
-  Clean and model the data, test hypotheses, and quantify risk segments.
-
-- **Actuarial & Pricing Teams**  
-  Translate risk patterns into pricing structures, expected-loss models, and premium recommendations.
-
-- **Business Intelligence (BI) Experts**  
-  Estimate revenue impact, profitability, and scenario outcomes (e.g. “what happens if we increase premiums for high-risk activities?”).
-
-- **Underwriters**  
-  Adjust coverage limits, exclusions, and policy conditions according to risk segmentation.
-
----
-
-### Recommendation for Future Work
-
-As a next step, this project could be extended by:
-
-1. **Connecting with actuarial and pricing teams** to obtain anonymized financial and claims data.  
-2. **Building a simple pricing simulation model** that applies different premium levels by activity, season, region, and age.  
-3. **Comparing scenarios** (current pricing vs. risk-adjusted pricing) to estimate potential changes in:
-   - Premium income  
-   - Expected claims cost  
-   - Profitability by segment  
-
-This would transform the project from a **risk insight analysis** into a **full business-impact and pricing optimization case**.
 
 ![Business Impact](./Visuals/business_impact.png)
 
@@ -354,5 +261,7 @@ From a learning perspective, this project can be extended in future bootcamp or 
 
 Overall, this project should be seen as a **solid first step**: it transforms raw incident data into structured insights and a clear framework for decision-making. With additional data and cross-functional collaboration, it could evolve into a **fully operational tool** for risk-based insurance pricing and product design.
 
-# TEAM
-Marisa, Anna, Paulina
+# Contributors
+- Marisa 
+- Paulina Mamiaga
+- Anna Igumnova
